@@ -1,0 +1,252 @@
+[
+  {
+    "Cidade": "Maringá",
+    "UF": "PR",
+    "Pagina": "http://www.din.uem.br/pos-graduacao/mestrado-em-ciencia-da-computacao/",
+    "Linhas_de_Pesquisa": [
+      {
+        "descricao": "Inteligência Computacional"
+      },
+      {
+        "descricao": "Sistemas de Computação"
+      },
+      {
+        "descricao": "Sistemas de Informação"
+      }
+    ],
+    "Docentes_Permanentes": 13,
+    "Ano_Criacao": 2012,
+    "Qtd_egresso_Mestrado": 66,
+    "Qtd_egresso_Doutorado": 0,
+    "Bolsistas": 1,
+    "Curso": "Ciência da Computação",
+    "Universidade": "UNIVERSIDADE ESTADUAL DE MARINGÁ (UEM)",
+    "Sigla": "UEM",
+    "Latitude": -23.40482,
+    "Longitude": -51.93921,
+    "Codigo": "40004015019P5"
+  },
+  {
+    "Cidade": "Londrina",
+    "UF": "PR",
+    "Pagina": "http://www.uel.br/pos/redes/index.php/mcc",
+    "Linhas_de_Pesquisa": [
+      {
+        "descricao": "Sistemas de Computação"
+      },
+      {
+        "descricao": "Metodologia e técnicas de computação"
+      },
+      {
+        "descricao": "Teoria da Computação"
+      }
+    ],
+    "Docentes_Permanentes": 12,
+    "Ano_Criacao": 2008,
+    "Qtd_egresso_Mestrado": 59,
+    "Qtd_egresso_Doutorado": 0,
+    "Bolsistas": 1,
+    "Curso": "Ciência da Computação",
+    "Universidade": "UnIVERSIDADE ESTADUAL DE LONDRINA",
+    "Sigla": "UEL",
+    "Latitude": -23.32648,
+    "Longitude": -51.20148,
+    "Codigo": "40002012033P5"
+  },
+  {
+    "Cidade": "Santa Maria",
+    "UF": "RS",
+    "Pagina": "http://w3.ufsm.br/ppgi/",
+    "Linhas_de_Pesquisa": [
+      {
+        "descricao": "Sistemas Paralelos e Distribuídos"
+      },
+      {
+        "descricao": "Microeletrônica e Processamento de Sinais"
+      },
+      {
+        "descricao": "Computação Aplicada"
+      },
+      {
+        "descricao": "Linguagens de Programação e Bancos de Dados"
+      }
+    ],
+    "Docentes_Permanentes": 35,
+    "Ano_Criacao": 2010,
+    "Qtd_egresso_Mestrado": 88,
+    "Qtd_egresso_Doutorado": 0,
+    "Bolsistas": 0,
+    "Curso": "INFORMÁTICA (PPGI)",
+    "Universidade": "UNIVERSIDADE FEDERAL DE SANTA MARIA",
+    "Sigla": "UFSM",
+    "Latitude": -29.71356,
+    "Longitude": -53.71673,
+    "Codigo": "42002010036P3"
+  },
+  {
+    "Cidade": "Passo Fundo",
+    "UF": "RS",
+    "Pagina": "http://ppgca.upf.br/",
+    "Linhas_de_Pesquisa":
+    [
+      { "descricao" : "Computação Pervasiva"},
+      { "descricao" : "Modelagem e Simulação"},
+      { "descricao" : "Sistemas Interativos e de Informação"}
+    ],
+    "Docentes_Permanentes": 7,
+    "Ano_Criacao": 2014,
+    "Qtd_egresso_Mestrado": 10,
+    "Qtd_egresso_Doutorado": 0,
+    "Bolsistas": 0,
+    "Curso": "COMPUTAÇÃO APLICADA (PPGCA)",
+    "Universidade": "FUNDAÇÃO UNIVERSIDADE DE PASSO FUNDO",
+    "Sigla": "FUPF",
+    "Latitude": -28.23281,
+    "Longitude": -52.38055,
+    "Codigo": "42009014011P1"
+  },
+  {
+    "Cidade": "Pelotas",
+    "UF": "RS",
+    "Pagina": "http://inf.ufpel.edu.br",
+    "Linhas_de_Pesquisa":
+    [
+      { "descricao" : "Fundamentos da Computação"},
+      { "descricao" : "Processamento Paralelo e Distribuído"},
+      { "descricao" : "Sistemas Digitais e Embarcados"},
+      { "descricao" : "Sistemas Inteligentes"}
+    ],
+    "Docentes_Permanentes": 25,
+    "Ano_Criacao": 2011,
+    "Qtd_egresso_Mestrado": 58,
+    "Qtd_egresso_Doutorado": 0,
+    "Bolsistas": 1,
+    "Curso": "COMPUTAÇÃO (PPGC)",
+    "Universidade": "UNIVERSIDADE DE PELOTAS",
+    "Sigla": "UFPEL",
+    "Latitude": -31.78146,
+    "Longitude": -52.32336,
+    "Codigo": "42003016038P9"
+  },
+  {
+    "Cidade": "Rio Grande",
+    "UF": "RS",
+    "Pagina": "http://ppgcomp.c3.furg.br/",
+    "Linhas_de_Pesquisa":
+    [
+      { "descricao" : "Robótica e Automação Inteligentes"},
+      { "descricao" : "Sistemas Digitais e Embarcados"},
+      { "descricao" : "Computação Flexível"},
+      { "descricao" : "Sistemas Multiagentes"},
+      { "descricao" : "Bioinformática"},
+      { "descricao" : "Tecnologias Educacionais e Assistivas"}
+    ],
+    "Docentes_Permanentes": 25,
+    "Ano_Criacao": 2012,
+    "Qtd_egresso_Mestrado": 39,
+    "Qtd_egresso_Doutorado": 0,
+    "Bolsistas": 1,
+    "Curso": "ENGENHARIA DA COMPUTAÇÃO (PPGComp)",
+    "Universidade": "UNIVERSIDADE FEDERAL DO RIO GRANDE",
+    "Sigla": "FURG",
+    "Latitude": -32.07406,
+    "Longitude": -52.16811,
+    "Codigo": "42004012022P1"
+  },
+  {
+    "Cidade": "Joinville",
+    "UF": "SC",
+    "Pagina": "http://www.cct.udesc.br/?id=289",
+    "Linhas_de_Pesquisa":
+    [
+      { "descricao" : "Qualidade de Software"},
+      { "descricao" : "Infraestrutura para Integração de Serviços"},
+      { "descricao" : "Desenvolvimento Dirigido a Modelos (MDD - Model-driven Development)"},
+      { "descricao" : "Fundamentos do Processamento Gráfico"},
+      { "descricao" : "Processamento Gráfico Aplicado"},
+      { "descricao" : "Confiança no Funcionamento (dependability)"},
+      { "descricao" : "Computação Paralela e Distribuída"},
+      { "descricao" : "Avaliação de Desempenho em Aplicações Distribuídas"}
+    ],
+    "Docentes_Permanentes": 14,
+    "Ano_Criacao": 2012,
+    "Qtd_egresso_Mestrado": 37,
+    "Qtd_egresso_Doutorado": 0,
+    "Bolsistas": 0,
+    "Curso": "COMPUTAÇÃO APLICADA (PPGCA)",
+    "Universidade": "UNIVERSIDADE DO ESTADO DE SANTA CATARINA",
+    "Sigla": "UDESC",
+    "Latitude": -26.25328,
+    "Longitude": -48.85551,
+    "Codigo": "41002016023P2"
+  },
+  {
+    "Cidade": "Curitiba",
+    "UF": "PR",
+    "Pagina": "http://ppgcc.pg.utfpr.edu.br/?lang=pb",
+    "Linhas_de_Pesquisa":
+    [
+      { "descricao" : "Sistemas de Informação e Computação"},
+      { "descricao" : "Inteligência Computacional"},
+      { "descricao" : "Modelagem e Métodos Computacionais"}
+    ],
+    "Docentes_Permanentes": 17,
+    "Ano_Criacao": 2016,
+    "Qtd_egresso_Mestrado": 0,
+    "Qtd_egresso_Doutorado": 0,
+    "Bolsistas": 4,
+    "Curso": "CIÊNCIA DA COMPUTAÇÃO (PPGCC)",
+    "Universidade": "UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ",
+    "Sigla": "UTFPR",
+    "Latitude": -25.4392,
+    "Longitude": -49.2689,
+    "Codigo": "40006018171P4"
+  },
+  {
+    "Cidade": "Curitiba",
+    "UF": "PR",
+    "Pagina": "http://www.utfpr.edu.br",
+    "Linhas_de_Pesquisa":
+    [
+      { "descricao" : "Área de Concentração"},
+      { "descricao" : "Computação Aplicada Linhas de Pesquisa"},
+      { "descricao" : "Engenharia de Software Inteligência Computacional"}
+    ],
+    "Docentes_Permanentes": 14,
+    "Ano_Criacao": 2013,
+    "Qtd_egresso_Mestrado": 27,
+    "Qtd_egresso_Doutorado": 0,
+    "Bolsistas": 0,
+    "Curso": "COMPUTAÇÃO APLICADA (PPGCA)",
+    "Universidade": "UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ",
+    "Sigla": "UTFPR",
+    "Latitude": -25.43924,
+    "Longitude": -49.2694,
+    "Codigo": "40006018011P7"
+  },
+  {
+    "Cidade": "Curitiba",
+    "UF": "PR",
+    "Pagina": "http://www.ppgca.ct.utfpr.edu.br",
+    "Linhas_de_Pesquisa":
+    [
+      { "descricao" : "Engenharia de Software"},
+      { "descricao" : "Processamento Gráfico"},
+      { "descricao" : "Redes e Sistemas Distribuídos"},
+      { "descricao" : "Sistemas Embarcados"},
+      { "descricao" : "Sistemas de Informação"},
+      { "descricao" : "Sistemas Inteligentes e Lógica"}
+    ],
+    "Docentes_Permanentes": 21,
+    "Ano_Criacao": 2010,
+    "Qtd_egresso_Mestrado": 47,
+    "Qtd_egresso_Doutorado": 0,
+    "Bolsistas": 0,
+    "Curso": "INFORMÁTICA",
+    "Universidade": "UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ",
+    "Sigla": "UTFPR",
+    "Latitude": -25.44378,
+    "Longitude": -49.35398,
+    "Codigo": "40006018025P8"
+  }
+]
